@@ -96,6 +96,8 @@ Os seguintes gráficos são gerados com base nos testes:
 5. Tempo de execução × Tamanho da entrada (Entradas Decrescentes)
 6. Comparações × Tamanho da entrada (Entradas Decrescentes)
 
+Obs: É gerado de forma iterativa, ou seja, é preciso interpretar o código .py
+
 ---
 
 ## ✅ Critérios de Avaliação
